@@ -1,2 +1,0 @@
-# jquery-ujs-master
- 
